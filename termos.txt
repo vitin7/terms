@@ -1,0 +1,32 @@
+Termos de Serviço do Inside Ticket
+
+Última atualização: 02/08/2023
+
+Aceitação dos Termos
+Bem-vindo ao Inside Ticket! Ao utilizar o nosso bot no Discord, você concorda em cumprir e estar vinculado a estes Termos de Serviço. Se você não concorda com estes termos, por favor, não use o bot.
+
+Uso do Bot
+O Inside Ticket é um bot desenvolvido para proporcionar funcionalidades adicionais ao Discord. Ao utilizar o bot, você entende e concorda que:
+
+a. O Inside Ticket é fornecido "como está", e não garantimos que o bot será ininterrupto, seguro ou livre de erros.
+b. Você é responsável por todas as ações executadas através do bot em sua conta do Discord.
+c. Não nos responsabilizamos por qualquer dano, perda de dados ou problemas decorrentes do uso do bot.
+d. Reservamo-nos o direito de suspender ou encerrar o acesso ao bot a qualquer momento, por qualquer motivo.
+
+Uso Adequado
+Você concorda em usar o Inside Ticket apenas para fins legítimos e de acordo com as políticas do Discord. Proíbe-se o uso do bot para:
+
+a. Violar qualquer lei ou regulamento aplicável.
+b. Enviar spam, conteúdo ofensivo ou prejudicial.
+c. Realizar atividades que possam prejudicar a integridade ou a performance do bot ou do Discord.
+d. Tentar acessar contas de outros usuários do Discord sem a devida autorização.
+
+Propriedade Intelectual
+Todos os direitos de propriedade intelectual relacionados ao Inside Ticket e aos seus conteúdos são de nossa propriedade ou de nossos licenciadores. Nenhum conteúdo do bot pode ser reproduzido, distribuído ou usado sem a nossa permissão prévia por escrito.
+
+Modificações dos Termos
+Reservamo-nos o direito de modificar ou atualizar estes Termos de Serviço a qualquer momento. As alterações entrarão em vigor a partir do momento em que forem publicadas nesta página. Recomendamos que você reveja periodicamente os Termos de Serviço.
+
+Contato
+Se você tiver alguma dúvida ou preocupação sobre estes Termos de Serviço, por favor, entre em contato conosco através do discord: discord.gg/insidebots
+
