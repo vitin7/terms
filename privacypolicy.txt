@@ -1,0 +1,48 @@
+Política de Privacidade do Inside Ticket Bot
+
+Última atualização: 02/08/2023
+
+Agradecemos por utilizar o Inside Ticket Bot ("nós", "nosso", "nos"). Esta Política de Privacidade tem como objetivo informar como coletamos, usamos, protegemos e divulgamos informações pessoais dos usuários ("você", "seu") ao utilizar o Inside Ticket Bot no Discord. Ao utilizar nosso bot, você concorda com esta política.
+
+1. Informações Coletadas
+
+O Inside Ticket Bot pode coletar as seguintes informações:
+
+Informações de Uso: Coletamos informações sobre como você interage com o bot, incluindo comandos enviados, respostas e outras atividades relacionadas.
+
+Informações de Conta Discord: Se você vincular o bot à sua conta Discord, poderemos coletar informações limitadas da sua conta, como o nome de usuário e o ID, para personalização e identificação.
+
+2. Uso das Informações
+
+Utilizamos as informações coletadas para:
+
+Fornecer e melhorar os serviços do Inside Ticket Bot.
+Personalizar as interações do bot de acordo com suas preferências.
+Entender como os usuários interagem com o bot e realizar análises para aprimorá-lo.
+Garantir a segurança e integridade do nosso bot e dos usuários.
+3. Compartilhamento de Informações
+
+Não compartilhamos suas informações pessoais com terceiros, exceto nas seguintes circunstâncias:
+
+Com o seu consentimento explícito.
+Quando necessário para cumprir com as leis ou responder a solicitações legais.
+Para proteger nossos direitos, privacidade, segurança ou propriedade, bem como de nossos usuários.
+4. Segurança
+
+Tomamos medidas razoáveis para proteger suas informações pessoais contra acesso não autorizado, alteração, divulgação ou destruição. No entanto, nenhum método de transmissão ou armazenamento eletrônico é completamente seguro, e não podemos garantir a segurança absoluta de suas informações.
+
+5. Links Externos
+
+O Inside Ticket Bot pode conter links para sites ou serviços de terceiros. Esta política de privacidade não se aplica a esses sites, e recomendamos que você revise as políticas de privacidade deles.
+
+6. Menores de Idade
+
+O Inside Ticket Bot não se destina a menores de 13 anos, e não coletamos intencionalmente informações de menores. Caso tenhamos conhecimento de que informações pessoais foram coletadas de menores sem o consentimento dos pais ou responsáveis, tomaremos medidas para removê-las.
+
+7. Alterações na Política de Privacidade
+
+Podemos atualizar esta Política de Privacidade ocasionalmente. Recomendamos que você reveja-a periodicamente para estar ciente das eventuais alterações. As mudanças entram em vigor assim que forem publicadas nesta página.
+
+8. Contato
+
+Se tiver dúvidas sobre esta Política de Privacidade ou sobre o uso das informações pelo Inside Ticket Bot, entre em contato através do nosso discord: discord.gg/insidebots.
